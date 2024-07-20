@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Ideas for projects and road map**
 
-- 📫 How to reach me **hamzashk2002@gmail.com**
+- 📫 How to reach me **er.hamzashaikh@gmail.com**
 
 - ⚡ Fun fact **I am Easy going and Enthusiastic**
 
