@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamza Shaikh</h1>
-<h3 align="center">A passionate frontend developer/Devops Henchman from India</h3>
+<h3 align="center">A passionate Backend Developer/Devops Henchman from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raynzler&label=Profile%20views&color=0e75b6&style=flat" alt="raynzler" /> </p>
 
-- 🌱 I’m currently learning **Containerization and ML**
+- 🌱 I’m currently learning **Containerization and GoLang**
 
-- 🤝 I’m looking for help with **Ideas for projects and road map**
+- 🤝 I’m looking for help with **Ideas for projects**
 
 - 📫 How to reach me **er.hamzashaikh@gmail.com**
 
