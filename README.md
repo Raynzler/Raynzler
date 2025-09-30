@@ -38,7 +38,7 @@
   ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1F8A70?style=for-the-badge)
   ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F39C12?style=for-the-badge)
   ![System Design](https://img.shields.io/badge/System%20Design-8A2BE2?style=for-the-badge)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)learning
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 </details>
 
 <details open>
