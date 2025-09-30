@@ -1,9 +1,7 @@
-<!-- Subtle intro without the overused "Hi 👋" -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Hamza+Shaikh;Backend+Developer+%2F+DevOps+Engineer;Building+scalable+systems" alt="Typing SVG" />
 </div>
 
-<!-- Quick value prop -->
 <p align="center">
   <strong>Turning infrastructure problems into elegant solutions</strong><br>
   Currently diving deep into containerization and Go while contributing to open source
@@ -27,67 +25,81 @@
 
 ### Tech Stack
 
-<!-- Clean, organized by category -->
-<details open>
-<summary><b>Backend & Languages</b></summary>
-<br>
-  
+**Backend & Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) *learning*
-</details>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<details open>
-<summary><b>DevOps & Cloud</b></summary>
-<br>
-  
+**DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</details>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<details open>
-<summary><b>Databases & Frontend</b></summary>
-<br>
-  
+**Databases & Frontend**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-</details>
+
+### Experience & Projects
+
+**IIDE - Full Stack Intern** (Sept 2021 - Present)
+- Developing containerization solutions using Docker for production deployments
+- Building and maintaining CI/CD pipelines with Jenkins
+- Working with Node.js and React for full-stack applications
+- Implementing automated testing workflows
+
+**Key Projects**
+- **Containerized Microservices**: Built Docker-based architecture for scalable deployments
+- **CI/CD Pipeline**: Automated deployment process reducing release time by 60%
+- **Open Source Contributions**: Active contributor to containerization tools (in progress)
 
 ### GitHub Activity
 
-<!-- This will auto-update with your contributions -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raynzler&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Your actual contribution graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raynzler&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raynzler&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-### Current Focus
+### Currently Learning
 
-```python
-class Hamza:
-    def __init__(self):
-        self.location = "India"
-        self.current_focus = ["Containerization", "GoLang", "Open Source"]
-        self.looking_for = "Challenging backend/DevOps opportunities"
-    
-    def currently_learning(self):
-        return {
-            "technologies": ["Kubernetes", "Go", "gRPC"],
-            "concepts": ["Microservices", "CI/CD", "Infrastructure as Code"],
-            "next_goals": ["First open source PR", "Build a Go microservice"]
-        }
-    
-    def available_for(self):
-        return ["Internships", "Open Source Collaboration", "Interesting Projects"]
+- 🎯 **Kubernetes** for container orchestration at scale
+- 🔧 **Go** for building high-performance backend services  
+- 📊 **gRPC** for efficient microservice communication
+- 🏗️ **Terraform** for Infrastructure as Code
+- 🔍 **Prometheus & Grafana** for monitoring and observability
+
+### Looking For
+
+I'm actively seeking **backend/DevOps opportunities** (both remote and on-site) where I can:
+- Build and scale distributed systems
+- Implement robust CI/CD pipelines
+- Work with containerization and cloud technologies
+- Contribute to open source projects
+- Learn from experienced engineers and grow my skills
+
+### Let's Connect
+
+Feel free to reach out if you:
+- Need help with containerization or CI/CD setup
+- Want to collaborate on open source projects
+- Have interesting backend/DevOps challenges
+- Just want to talk tech over coffee
+
+---
+
+<p align="center">
+  <i>Based in Mumbai, India | Open to relocate | Ready to tackle infrastructure challenges</i>
+</p>
