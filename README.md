@@ -8,13 +8,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raynzler&label=Profile%20views&color=0e75b6&style=flat" alt="raynzler" />
-  <a href="mailto:er.hamzashaikh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
-  <a href="https://twitter.com/shamza31"><img src="https://img.shields.io/badge/Twitter-%40shamza31-blue?style=flat&logo=twitter"></a>
-  <a href="https://www.linkedin.com/in/hamza-shaikh-960608220/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <img src="https://komarev.com/ghpvc/?username=Raynzler&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:er.hamzashaikh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://twitter.com/shamza31">
+    <img src="https://img.shields.io/badge/Twitter-@shamza31-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-shaikh-960608220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
----
 
 ### What I'm Building
 
@@ -102,7 +106,7 @@
 - 📊 **gRPC** for efficient microservice communication
 - 🏗️ **Terraform** for Infrastructure as Code
 - 🔍 **Prometheus & Grafana** for monitoring and observability
-- 🧑🏼‍💻 **SecOps Tools** for mitifating security incidents
+- 🧑🏼‍💻 **SecOps Tools** for mitigating security incidents
 
 ### Looking For Opportunities
 
