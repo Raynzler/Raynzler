@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Turning infrastructure problems into elegant solutions</strong><br>
-  Currently diving deep into containerization and Go while contributing to open source
+  XIE '24 | SGDC '23 | Exploring Tech | Currently diving deep into containerization and Go
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### What I'm up to
+### What I'm Building
 
 - 🔨 Building microservices with **Node.js** and exploring **Go** for high-performance systems
 - 🐳 Containerizing everything - if it runs, it runs in Docker
@@ -45,23 +45,18 @@
 **Databases & Frontend**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Experience & Projects
+### Experience
 
-**IIDE - Full Stack Intern** (Sept 2021 - Present)
-- Developing containerization solutions using Docker for production deployments
-- Building and maintaining CI/CD pipelines with Jenkins
-- Working with Node.js and React for full-stack applications
-- Implementing automated testing workflows
-
-**Key Projects**
-- **Containerized Microservices**: Built Docker-based architecture for scalable deployments
-- **CI/CD Pipeline**: Automated deployment process reducing release time by 60%
-- **Open Source Contributions**: Active contributor to containerization tools (in progress)
+**DevOps & Coffee | Airoli** _(XIE '24 | SGDC '23 | Exploring Tech)_
+- Building microservices with Node.js and exploring Go for high-performance systems
+- Containerizing everything - if it runs, it runs in Docker
+- Automating deployments with Jenkins and learning Kubernetes
+- Contributing to open source (starting my journey - watch this space!)
 
 ### GitHub Activity
 
@@ -81,25 +76,30 @@
 - 🏗️ **Terraform** for Infrastructure as Code
 - 🔍 **Prometheus & Grafana** for monitoring and observability
 
-### Looking For
+### Looking For Opportunities
 
-I'm actively seeking **backend/DevOps opportunities** (both remote and on-site) where I can:
+I'm actively seeking **backend/DevOps internships and entry-level positions** (both remote and on-site) where I can:
 - Build and scale distributed systems
 - Implement robust CI/CD pipelines
 - Work with containerization and cloud technologies
 - Contribute to open source projects
 - Learn from experienced engineers and grow my skills
 
+Particularly interested in:
+- **Startups** where I can wear multiple hats
+- **Open source companies** with strong engineering cultures
+- **Remote-first teams** with async collaboration
+
 ### Let's Connect
 
-Feel free to reach out if you:
-- Need help with containerization or CI/CD setup
-- Want to collaborate on open source projects
-- Have interesting backend/DevOps challenges
-- Just want to talk tech over coffee
+I'm always down to discuss:
+- 💡 Cool project ideas and collaboration opportunities
+- 🐳 Docker and containerization strategies
+- ☕ DevOps over coffee (literally - check my tagline)
+- 🚀 How to break into tech and grow together
 
 ---
 
 <p align="center">
-  <i>Based in Mumbai, India | Open to relocate | Ready to tackle infrastructure challenges</i>
+  <i>Based in Dombivali, Mumbai | Open to relocate | Remote-friendly | Ready to learn and contribute</i>
 </p>
