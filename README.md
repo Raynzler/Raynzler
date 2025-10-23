@@ -133,5 +133,5 @@ I'm always down to discuss:
 ---
 
 <p align="center">
-  <i>Based in Mumbai & Riyadh | Open to both Remote & on-site opportunities | Ready to learn and contribute</i>
+  <i>Based in Mumbai, Riyadh & Frankfurt | Open to both Remote & on-site opportunities | Ready to learn and contribute</i>
 </p>
