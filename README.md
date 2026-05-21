@@ -3,7 +3,7 @@
 # Hamza Shaikh
 
 SRE / Infra. M.Sc. CS in Distributed Systems, RPTU Kaiserslautern.  
-er.hamzashaikh@gmail.com · [linkedin](https://linkedin.com/in/shamza31) · [x](https://x.com/shamza31)
+er.hamzashaikh@gmail.com · [Portfolio](https://shamza31.vercel.app) · [linkedin](https://linkedin.com/in/shamza31) · [x](https://x.com/shamza31)
 
 ---
 
