@@ -20,7 +20,7 @@ Self-healing platform. RED metrics via Prometheus client, 50ms p95 latency budge
 Alerting thresholds trigger automated recovery routines.  
 FastAPI, Docker Compose, GitHub Actions.
 
-**[GridCast] · [live](https://heatwave-watch-system.vercel.app)**  
+**[GridCast]** · [live](https://heatwave-watch-system.vercel.app) 
 28 LSTM models — 7 geographic regions x 4 IMD seasons.  
 Trained on daily max temperature grids 1951-2021.  
 14-step input window, 7-step forecast. Per-subset hyperparameter search via Optuna TPE.  
